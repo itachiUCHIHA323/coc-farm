@@ -1,0 +1,15 @@
+{
+    "mode": "Farm",
+    "min_gold": "1",
+    "min_elixir": "1",
+    "min_dark": "1",
+    "combo": "Dragon + Balloon",
+    "delay": "30s",
+    "loops": "1",
+    "wall_enabled": 0,
+    "wall_min_gold": "10000000",
+    "wall_min_elixir": "10000000",
+    "wall_count": "1",
+    "work_time": "All",
+    "rest_time": "30m"
+}
